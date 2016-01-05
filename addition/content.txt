@@ -1,0 +1,6 @@
+!define TEST_SYSTEM {slim}
+!path C:\Users\mahesh.palaniswamy\Downloads\java_n0sRJ1
+|Num1|Num2|sum?|
+|3|5|8|
+|3|7|10|
+|5|7|11|
