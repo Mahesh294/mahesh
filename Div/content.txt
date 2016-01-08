@@ -1,0 +1,7 @@
+!define TEST_SYSTEM {slim}
+!path C:\Users\mahesh.palaniswamy\Downloads\java_QinaEY
+|Division|
+|numerator|denominator|quotient?|
+|10       |2          |5        |
+|12.6     |3          |4.2      |
+|100      |4          |33       |
